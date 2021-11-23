@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, i'm Daniel 👋
 
-<!--
-**HeadDevDaniel/HeadDevDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Fivem Server West Side Roleplay
+- 🌱 I’m currently learning N/A
+- 👯 I’m looking to collaborate on Fivem Scripts
+- 🤔 I’m looking for help with N/A
+- 💬 Ask me about Tech/Fivem Scripting
+- 📫 How to reach me: Discord: c.#4083
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I Love Dogs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?HeadDevDaniel=curiousgrids&theme=radical)

@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love Dogs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?HeadDevDaniel=curiousgrids&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeadDevDaniel&theme=radical)

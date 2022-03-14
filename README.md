@@ -1,5 +1,6 @@
 ### Hello, i'm Daniel 👋
 
+- 🔨 I'm Currently Founder/Owner of West Side RP
 - 🔭 I’m currently working on Fivem Server West Side Roleplay
 - 🌱 I’m currently learning N/A
 - 👯 I’m looking to collaborate on Fivem Scripts

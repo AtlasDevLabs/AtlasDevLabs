@@ -1,7 +1,6 @@
 ### Hello, i'm Daniel 👋
 
-- 🔨 I'm Currently Owner of a Fivem Server
-- 🌱 I’m currently a: JS, Lua, HTML, Python, ts, Developer
+- 🌱 I’m currently a: JS, Lua, HTML, Python, Developer
 - 👯 I’m looking to collaborate on Fivem Scripts
 - 🤔 I’m looking for help with N/A
 - 💬 Ask me about Tech/Fivem Scripting

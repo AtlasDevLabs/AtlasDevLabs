@@ -4,6 +4,5 @@
 - 👯 I’m looking to collaborate on Fivem Scripts
 - 💬 Ask me about Tech/Fivem Scripting
 - 📫 How to reach me: Discord: danboi#4202
-- ⚡ Fun fact: I Love Dogs
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danboi01&theme=radical)
